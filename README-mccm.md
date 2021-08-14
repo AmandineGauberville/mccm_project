@@ -19,7 +19,7 @@ Amandine Gauberville
 
 A partir des données de gestion interne d'un cabinet d'expertise comptable dispensant une offre de services diversifiée, nous allons effectuer un diagnostic de la performance de ce cabinet en nous basant sur le comparatif des données de prix de revient avec les données du chiffre d'affaires.
 
-Lorsque la différence entre le chiffres d'affaires et le prix de revient est positive, nous appellerons cela un "boni". A l'inverse, lorsque la différence sera négative, nous appellerons cela un "mali".
+Lorsque la différence entre le chiffre d'affaires et le prix de revient est positive, nous appellerons cela un "boni". A l'inverse, lorsque la différence sera négative, nous appellerons cela un "mali".
 
 Avec des modèles de machine learning d'apprentissage supervisé de régression, nous allons prédire le prix de revient d'une mission. 
 

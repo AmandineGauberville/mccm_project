@@ -60,10 +60,10 @@ Les étapes de cette analyse de données ont été :
 
 1. La constitution du "dataset ML" sur Python
     - Export et concaténation des données de CEGID Expert en fichiers csv. issus de différents modules soit 11 fichiers exportés.
-    [Dataset-2017]
-    [Dataset-2018]
-    [Dataset-2019]
-    [Dataset-2020]
+    [Dataset-2017](https://github.com/AmandineGauberville/mccm_project/blob/master/Dataset-2017.ipynb)
+    [Dataset-2018](https://github.com/AmandineGauberville/mccm_project/blob/master/Dataset-2018.ipynb)
+    [Dataset-2019](https://github.com/AmandineGauberville/mccm_project/blob/master/Dataset-2019.ipynb)
+    [Dataset-2020](https://github.com/AmandineGauberville/mccm_project/blob/master/Dataset-2020.ipynb)
     
 2. Datacleaning sur Python
     - Suppression des valeurs nulles

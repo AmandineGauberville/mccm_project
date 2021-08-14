@@ -5,7 +5,7 @@ Amandine Gauberville
 
 *[27-07-2021]*
 
-![image](https://drive.google.com/file/d/1py4N9DlSN3Ul8JxaPwWBxmN7Tbr9-jZp/view?usp=sharing)
+
 
 ## Content
 - [Project Description](#project-description)

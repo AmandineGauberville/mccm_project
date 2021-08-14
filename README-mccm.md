@@ -60,6 +60,7 @@ Les étapes de cette analyse de données ont été :
 
 1. La constitution du "dataset ML" sur Python
     - Export et concaténation des données de CEGID Expert en fichiers csv. issus de différents modules soit 11 fichiers exportés.
+    
     [Dataset-2017](https://github.com/AmandineGauberville/mccm_project/blob/master/Dataset-2017.ipynb)
     [Dataset-2018](https://github.com/AmandineGauberville/mccm_project/blob/master/Dataset-2018.ipynb)
     [Dataset-2019](https://github.com/AmandineGauberville/mccm_project/blob/master/Dataset-2019.ipynb)
@@ -73,7 +74,8 @@ Les étapes de cette analyse de données ont été :
     
 3. Analyse exploratoire des données sur Python
     - Dans un premier temps, l'analyse est effectuée de manière univariée
-    - Dans un second temps, nous avons tenté de croiser les données par analyse bi-variée puis multivariée. [Data EDA](https://github.com/AmandineGauberville/mccm_project) 
+    - Dans un second temps, nous avons tenté de croiser les données par analyse bi-variée puis multivariée.
+    [Data EDA](https://github.com/AmandineGauberville/mccm_project/blob/master/Data%20EDA.ipynb) 
 
 4. Datavisualisation sur Tableau public
     - Traduction des éléments d'analyse sur des graphiques plus complets

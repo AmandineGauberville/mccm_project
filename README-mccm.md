@@ -5,7 +5,7 @@ Amandine Gauberville
 
 *[27-07-2021]*
 
-![image](https://fr.freepik.com/photos-gratuite/comptable-calculant-profit-graphiques-analyse-financiere_7548546.htm#page=1&query=expert%20comptable&position=0)
+![image](https://drive.google.com/file/d/1py4N9DlSN3Ul8JxaPwWBxmN7Tbr9-jZp/view?usp=sharing)
 
 ## Content
 - [Project Description](#project-description)
@@ -27,7 +27,7 @@ Les objectifs de cette prédiction sont les suivants :
 - Eviter les malis en donnant le bon coût, ainsi nous pouvons anticiper le montant total hors taxe à facturer au client
 - Améliorer la rentabilité des missions 
 
-Avant d'arriver à prédire ce prix de revient, il est important d'analyser les features qui pourront avoir une influence sur ce dernier. L'ensemble de l'analyse se trouve dans le fichier suivant : [Repository](https://github.com/AmandineGauberville/mccm_project) 
+Avant d'arriver à prédire ce prix de revient, il est important d'analyser les features qui pourront avoir une influence sur ce dernier. L'ensemble de l'analyse se trouve dans le fichier suivant : [Data EDA](https://github.com/AmandineGauberville/mccm_project/blob/master/Data%20EDA.ipynb) 
 
 L'étude porte sur les années 2017, 2018, 2019 et 2020.
 
@@ -49,7 +49,7 @@ Ces données sont ensuite compilées pour obtenir le dataset final avant analyse
 
 Le dataset est composé de 35 583 lignes pour 197 colonnes.
 
-Codebook : [Codebook](https://github.com/AmandineGauberville/mccm_project) 
+Codebook : [Codebook](https://github.com/AmandineGauberville/mccm_project/blob/master/Codebook.xlsx) 
 
 
 <a name="workflow"></a>
@@ -85,7 +85,7 @@ Les étapes de cette analyse de données ont été :
     - Test de 8 modèles ML de régression en cross-validation
     - Le modèle lightGBMRegressor, le plus performant est retenu
     - Mean Absolute Error de 189€ sur le test
-    [Data EDA](https://github.com/AmandineGauberville/mccm_project)
+    [Data ML](https://github.com/AmandineGauberville/mccm_project/blob/master/Data%20ML.ipynb)
 
 
 ## Links

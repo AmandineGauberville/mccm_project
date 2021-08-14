@@ -5,6 +5,8 @@ Amandine Gauberville
 
 *[27-07-2021]*
 
+![image](https://fr.freepik.com/photos-gratuite/comptable-calculant-profit-graphiques-analyse-financiere_7548546.htm#page=1&query=expert%20comptable&position=0)
+
 ## Content
 - [Project Description](#project-description)
 - [Dataset](#dataset)
